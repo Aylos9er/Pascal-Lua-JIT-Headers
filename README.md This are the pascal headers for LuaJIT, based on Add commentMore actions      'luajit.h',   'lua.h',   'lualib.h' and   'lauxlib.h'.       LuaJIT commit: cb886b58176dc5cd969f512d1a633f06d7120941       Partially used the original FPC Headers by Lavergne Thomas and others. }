@@ -1,0 +1,11 @@
+ This are the pascal headers for LuaJIT, based on Add commentMore actions
+  
+  'luajit.h',
+  'lua.h',
+  'lualib.h' and
+  'lauxlib.h'.
+   
+  LuaJIT commit: cb886b58176dc5cd969f512d1a633f06d7120941
+   
+  Partially used the original FPC Headers by Lavergne Thomas and others.
+}
